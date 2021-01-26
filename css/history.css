@@ -1,0 +1,18 @@
+.body-color{
+    background-color: #E76F51;
+  
+}
+.div1{
+    height: 500px;
+}
+.div2{
+    display: block;
+    padding-top: 90px;
+}
+.list{
+    padding-top: 30px;
+    padding-right: 30px;
+    text-align: right;
+    color: white;
+   height: 500px;
+}

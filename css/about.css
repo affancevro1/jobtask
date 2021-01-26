@@ -1,0 +1,38 @@
+.body-color{
+    background-color: #E76F51;
+}
+.container{
+    background-color: #F4A261;
+    height: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.h1{
+    text-align: center;
+display: block;
+justify-content: center;
+width: 100%;
+padding-top: 200px;
+height: 100px;
+}
+h1{
+    font-family: "Miso", Helvetica, Verdana, sans-serif !important;
+font-size: 50px;
+text-transform: uppercase;
+color:#264653;
+font-weight: bold !important;
+line-height: 50px;
+margin-bottom: 0;
+
+}
+.p1{
+    padding-top: 10px;
+  
+    font-family: "Barlow Semi Condensed", Helvetica, Verdana, sans-serif;
+    color:#264653;
+    font-weight: 300;
+    font-size: 22px;
+
+   margin: 10px;
+    text-align: center;
+}
